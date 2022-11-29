@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T09:00:57.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" version="20.6.0" etag="8PHe5TznYWafSfxP7V-w" type="github"><diagram id="QBGDkAFbe9KP_KpRAfPA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-29T09:04:15.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" version="20.6.0" etag="XIE9I6-ChVBDF7QeY3_b" type="github">
+  <diagram id="mr-_U6BpDJuNcux7Z9ff" name="Page-1">
+    <mxGraphModel dx="1182" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iCudIPjxeOsitrx6rLV7-1" value="เริ่มต้น" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="350" y="290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iCudIPjxeOsitrx6rLV7-2" value="รับตัวเลข 0-10" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="450" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iCudIPjxeOsitrx6rLV7-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="600" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iCudIPjxeOsitrx6rLV7-4" value="เริ่มต้น" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
